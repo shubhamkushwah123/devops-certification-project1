@@ -1,4 +1,4 @@
-package com.edurekademo.utilities;
+package com.staragile.demo.utilities;
 
 public class PrepareTargetMethod {
 

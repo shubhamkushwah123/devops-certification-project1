@@ -1,4 +1,4 @@
-package com.edurekademo.utilities;
+package com.staragile.demo.utilities;
 import java.io.Serializable;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -251,7 +251,7 @@ public class GenericComparator implements Comparator, Serializable {
 	 *
 	 * @param o1 - a {@link java.lang.Object}
 	 * @param o2 - a {@link java.lang.Object}
-	 * @return compareMode - a {@link com.edurekademo.utilities.GenericComparator.CompareMode}
+	 * @return compareMode - a {@link com.staragile.demo.utilities.GenericComparator.CompareMode}
 	 */
 	protected CompareMode findCompareMode(Object o1, Object o2) {
 		CompareMode cm = CompareMode.LESS_THAN;

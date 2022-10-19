@@ -1,4 +1,4 @@
-package com.edurekademo.tutorial.addressbook.backend;
+package com.staragile.demo.tutorial.addressbook.backend;
 
 import org.apache.commons.beanutils.BeanUtils;
 
